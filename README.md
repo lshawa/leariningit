@@ -1,2 +1,4 @@
 # leariningit
-This is for learning git commands. 
+
+# Test
+Test repo for learning git commands.  
